@@ -9,9 +9,9 @@ module.exports = function(sails) {
 	return {
 		login: login,
 		logout, logout,
-		shared: shared
+		shared: shared,
 		setup: setup,
-		exec: exec,
+		exec: exec
 	};
 	
 };
