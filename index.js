@@ -9,11 +9,9 @@ module.exports = function(sails) {
 	return {
 		login: login,
 		logout, logout,
-		getSynoInfo: getSynoInfo,
-		enableCam: enableCam,
-		disableCam: disableCam,
+		shared: shared
 		setup: setup,
-		exec: exec
+		exec: exec,
 	};
 	
 };
