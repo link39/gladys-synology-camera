@@ -26,7 +26,7 @@ Pour fonctionner, ce module nécessite :
 
   - Nom : `synocam`
   - Version : `0.1`
-  - URL : `https://github.com/link39/synology-camera.git`
+  - URL : `https://github.com/link39/gladys-synology-camera.git`
   - Slug : `synology-camera`
 
 ### Redémarrer Gladys
